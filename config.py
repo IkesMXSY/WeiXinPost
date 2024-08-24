@@ -1,11 +1,11 @@
 # 公众号配置
 # 公众号appId
-app_id = "wx******************"
+app_id = "wxeb134c8d07f65817"
 # 公众号appSecret
-app_secret = "f9a80260d33******************"
+app_secret = "c32b5cb1ced6a888936925989d8b4430"
 # 模板消息id
 # 每日消息
-template_id1 = "wX-************************************"
+template_id1 = "sumMLN0-9QiPNqZa4_de7ef4OpfyRZLu-pwpNowXYdo"
 # 课程消息,上课提醒
 template_id2 = "loe1yHWr************************************"
 # 晚安心语
